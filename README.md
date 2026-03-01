@@ -102,9 +102,9 @@ footer {
 <div class="wish">इस होली आपके जीवन में खुशियों के रंग कभी फीके ना पड़ें ✨</div>
 
 <!-- Holi GIF Images -->
-<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Holi GIF">
+<img src="https://community.kodular.io/t/happy-holi-koders/21638" alt="Holi GIF">
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Holi GIF">
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Holi GIF">
+<img src="https://tenor.com/search/happy-holi-gifs" alt="Holi GIF">
 
 <br>
 
