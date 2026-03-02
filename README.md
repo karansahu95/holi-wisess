@@ -101,10 +101,10 @@ footer {
 <div class="wish">प्यार के रंग से भरो पिचकारी, स्नेह के रंग से रंग दो दुनिया सारी 💛</div>
 <div class="wish">इस होली आपके जीवन में खुशियों के रंग कभी फीके ना पड़ें ✨</div>
 
-<!-- Holi GIF Images -->
-<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Holi GIF">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Holi GIF">
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Holi GIF">
+<!-- Your Custom GIF Links -->
+<img src="https://share.google/kmQMUvqFYrfc5rMzq" alt="Holi GIF 1">
+<img src="https://share.google/vFYDCg0BIRDGLVz8k" alt="Holi GIF 2">
+<img src="https://share.google/Z0xW5FOtE592wQ2En" alt="Holi GIF 3">
 
 <br>
 
@@ -120,4 +120,3 @@ Made with ❤️ by Karan
 
 </body>
 </html>
-
